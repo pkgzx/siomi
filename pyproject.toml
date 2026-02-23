@@ -1,0 +1,9 @@
+[project]
+name = "siomi"
+version = "0.0.1"
+description = "Multi-agent AI platform for sioma that can be used to search data, generate documents, graphics, process big data, and more."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.131.0",
+]
