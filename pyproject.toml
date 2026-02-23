@@ -5,5 +5,10 @@ description = "Multi-agent AI platform for sioma that can be used to search data
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bcrypt>=5.0.0",
+    "dotenv>=0.9.9",
     "fastapi>=0.131.0",
+    "langchain>=1.2.10",
+    "langgraph>=1.0.9",
+    "uvicorn>=0.41.0",
 ]
