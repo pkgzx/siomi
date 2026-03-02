@@ -1,5 +1,6 @@
 .venv
 uv.lock
+.env
 
 # Environment variables and sensitive config
 sonar-project.properties
