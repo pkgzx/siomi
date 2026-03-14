@@ -1,6 +1,10 @@
 .venv
 uv.lock
 .env
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 # Environment variables and sensitive config
 sonar-project.properties
